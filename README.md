@@ -69,20 +69,13 @@ Me chamo Victor Yuri, tenho 18 anos e moro em Niteroi-RJ. Concluí o ensino méd
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="git" 
+    title="git"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
+
 
 
 <br/>
