@@ -2,7 +2,7 @@
 
 **`Estudante de Sistemas de Informção`**
 
-Me chamo Victor Yuri, tenho 18 anos e moro em Niteroi-RJ. Concluí o ensino médio em 2024. Atualmente, estou cursando **Sistemas de Informação** na Anhanguera. Sou apaixonado por tecnologia, programação e desenvolvimento de soluções que facilitem o dia a dia das pessoas.
+Me chamo Victor Yuri, tenho 19 anos e moro em Niteroi-RJ. Concluí o ensino médio em 2024. Atualmente, estou cursando **Sistemas de Informação** na Anhanguera. Sou apaixonado por tecnologia, programação e desenvolvimento de soluções que facilitem o dia a dia das pessoas.
 
 
 ---
